@@ -441,6 +441,4 @@ If you can answer these and complete Exercises A-C, you understand the core of t
 - TF-IDF: a word-weighting method based on frequency and rarity.
 - Vectorizer: the fitted object that converts text into the same numeric columns used during training.
 
-## 15. Best next step
 
-Run the app with data/sample.txt. Then open notebooks/train_models.ipynb and trace one article from the CSV through cleaning, TF-IDF, model prediction, and the final Streamlit table. After that, implement Exercise A so the prediction path is independent of the UI.
