@@ -1,10 +1,9 @@
 # SuperDocAI: Learn the Codebase
 
-This guide explains the linked [SmartDocAI repository](https://github.com/yoon-thiri04/Smart-doc-ai) as a learning project. It covers what the app does, how the files fit together, the machine-learning concepts behind it, how to run it, and what to improve next.
 
 ## 1. What this project does
 
-SmartDocAI is a Streamlit web app that accepts a TXT, DOCX, or PDF document. It extracts the text, cleans it, converts it into TF-IDF features, sends those features to three saved scikit-learn classifiers, and displays the predicted category. The user can then ask a Llama model, through Together AI and LangChain, to generate a title and explanation and download a PDF report.
+SuperDocAI is a Streamlit web app that accepts a TXT, DOCX, or PDF document. It extracts the text, cleans it, converts it into TF-IDF features, sends those features to three saved scikit-learn classifiers, and displays the predicted category. The user can then ask a Llama model, through Together AI and LangChain, to generate a title and explanation and download a PDF report.
 
 The app has two different AI stages:
 
