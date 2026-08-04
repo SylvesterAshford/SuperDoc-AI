@@ -1,4 +1,4 @@
-# SmartDocAI: Learn the Codebase
+# SuperDocAI: Learn the Codebase
 
 This guide explains the linked [SmartDocAI repository](https://github.com/yoon-thiri04/Smart-doc-ai) as a learning project. It covers what the app does, how the files fit together, the machine-learning concepts behind it, how to run it, and what to improve next.
 
